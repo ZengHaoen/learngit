@@ -1,3 +1,3 @@
 "Hello,World"
 Git is a distributed version control system.
-Git is free.
+Git is free software.
